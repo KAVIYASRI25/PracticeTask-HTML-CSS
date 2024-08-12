@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+}
+.hello{
+    background-color: blue;
+    border-radius:0px;
+   width:50%;
+   margin: 0 auto;
+   padding:25px;
+   height:800px;
+}
+p{
+    color:white;
+    font-family: Calibri;
+    font-size: 25px;
+}
+ol{
+  
+    margin-top: -20px;
+}
+img{
+    margin-left: 23px;
+    height:200px;
+    width:350px;
+}
+figcaption{
+    color:orange;
+    font-size: 15px;
+    width:350px;
+}
+
